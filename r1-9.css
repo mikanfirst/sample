@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+i {
+  font-size: 32px;
+}
+.position {
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
